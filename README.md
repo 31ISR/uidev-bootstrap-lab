@@ -31,7 +31,7 @@ npm install bootstrap@5.3.2
 Создайте следующие папки и файлы:
 
 ```
-uidev-lab21-{фамилия}/
+uidev-bootstrap-lab-{фамилия}/
 ├── css/
 ├── js/
 ├── images/
